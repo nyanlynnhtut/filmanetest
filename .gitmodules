@@ -1,0 +1,3 @@
+[submodule "za"]
+	path = za
+	url = git@github.com:suenwe/za-support.git
